@@ -1,0 +1,14 @@
+D:\VSrepos\Localization_HDM\bin\Debug\net8.0\Localization_HDM.exe
+D:\VSrepos\Localization_HDM\bin\Debug\net8.0\Localization_HDM.deps.json
+D:\VSrepos\Localization_HDM\bin\Debug\net8.0\Localization_HDM.runtimeconfig.json
+D:\VSrepos\Localization_HDM\bin\Debug\net8.0\Localization_HDM.dll
+D:\VSrepos\Localization_HDM\bin\Debug\net8.0\Localization_HDM.pdb
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\Localization_HDM.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\Localization_HDM.AssemblyInfoInputs.cache
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\Localization_HDM.AssemblyInfo.cs
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\Localization_HDM.csproj.CoreCompileInputs.cache
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\Localization_HDM.dll
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\refint\Localization_HDM.dll
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\Localization_HDM.pdb
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\Localization_HDM.genruntimeconfig.cache
+D:\VSrepos\Localization_HDM\obj\Debug\net8.0\ref\Localization_HDM.dll
